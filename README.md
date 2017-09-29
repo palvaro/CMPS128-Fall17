@@ -2,15 +2,15 @@
 ## Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Monday, Wednesday and Friday at <b>2:40 PM</b>. |
-|Where: | Engineering 2, Room 192 |
+|When: | Tuesday and Thursday at <b>9:50 AM</b>. |
+|Where: | Oakes Academic 105 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours: | W/F 1:30-2:30PM |
+|Office hours: | TBD |
 |Prerequisites: | CMPS101 or CE150 required. CMPS111 or CMPS105 recommended. |
-|Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
-|TA: | Michael Shavlovsky (email: mshavlov at ucsc)|
-|Labs: |Basking Engineering,  Room 105, Tuesdays 12:00 - 2:00 pm, Wednesdays 8:00am - 10:00am.|
-|TA office hours: |Engineering 2, Room 480, Mondays 1:30-2:30pm.|
+|Text: | TBD |
+|TA: | Kamala Ramasubramanian (email: kramasub at ucsc) and Asha Karim (email: akarim at ucsc)|
+|Labs: |TBD|
+|TA office hours: |TBD|
 |Modules: | [Modules](modules.md)|
 |Readings (in flux): | [Readings](readings.md)|
 
