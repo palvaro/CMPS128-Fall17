@@ -7,7 +7,6 @@
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
 |Office hours: | TBD |
 |Prerequisites: | CMPS101 or CE150 required. CMPS111 or CMPS105 recommended. |
-|Text: | TBD |
 |TA: | Kamala Ramasubramanian (email: kramasub at ucsc) and Asha Karim (email: akarim at ucsc)|
 |Labs: |TBD|
 |TA office hours: |TBD|
