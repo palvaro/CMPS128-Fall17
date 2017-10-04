@@ -5,7 +5,7 @@
 |When: | Tuesday and Thursday at <b>9:50 AM</b>. |
 |Where: | Oakes Academic 105 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
-|Office hours: | TBD |
+|Office hours: | Mon 9-10AM and TBD |
 |Prerequisites: | CMPS101 or CE150 required. CMPS111 or CMPS105 recommended. |
 |TA: | Kamala Ramasubramanian (email: kramasub at ucsc) and Asha Karim (email: akarim at ucsc)|
 |Labs: |TBD|
